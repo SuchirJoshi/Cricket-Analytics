@@ -1,3 +1,3 @@
-# Cricket-Analytics
+# Sports-Analytics
 
-Here is some rough analysis I have done on various problems in cricket. Each notebook corresponds to a new area of inquiry. 
+Each folder contains its own sports analytics mini-project, with both the original Python notebook and my article detailing my analysis. 
